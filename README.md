@@ -5,7 +5,7 @@ Box_office_ticket_sale is an advanced relational database system designed to eff
 
 ---
 
-## Features  
+## ✨ Features  
 - 🎫 **Comprehensive Ticket Management:** Seamlessly manage ticket sales for various events and venues.  
 - 🔒 **Secure Booking System:** Prevents double booking and unauthorized cancellations.  
 - 📊 **Dynamic Capacity Regulation:** Automatically adjusts seat availability based on event capacity and seating arrangements.  
@@ -14,7 +14,7 @@ Box_office_ticket_sale is an advanced relational database system designed to eff
 
 ---
 
-## Technologies Used  
+## 🛠️ Technologies Used  
 - 🗄️ **Relational Database Management:** Ensures data integrity and optimized queries for high performance.  
 - 💻 **SQL (Stored Procedures & Triggers):** Efficient transaction management and automated business rules.  
 - 🔗 **Modular Architecture:** Easily maintainable and scalable database design.  
@@ -31,7 +31,7 @@ Box_office_ticket_sale is an advanced relational database system designed to eff
 
 ---
 
-## Setup Instructions  
+## ⚙️Setup Instructions  
 1. **Clone this repository:**  
 
     ```bash
@@ -44,7 +44,7 @@ Box_office_ticket_sale is an advanced relational database system designed to eff
 
 ---
 
-## Testing & Validation  
+## 🔍Testing & Validation  
 The system has undergone rigorous testing to ensure reliability and data integrity:  
 - **Edge Case Handling:** Tested with maximum venue capacity to ensure no overbooking.  
 - **Transaction Security:** Verified state changes for purchases and cancellations, maintaining consistent data flow.  
@@ -52,7 +52,7 @@ The system has undergone rigorous testing to ensure reliability and data integri
 
 ---
 
-## Contributing  
+## 🤝 Contributing  
 We welcome contributions to enhance functionality and optimize performance. To contribute:  
 1. Fork this repository.  
 2. Create a new branch for your feature.  
